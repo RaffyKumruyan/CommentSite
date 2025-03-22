@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: comment-site
+    env: docker
+    plan: free
+    repo: https://github.com/RaffyKumruyan/CommentSite
+    branch: master
+    dockerfilePath: ./CommentSite/Dockerfile
+    autoDeploy: true
