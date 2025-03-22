@@ -8,7 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ab33fe1-ccb1-4304-9068-43c346f0d896" name="Changes" comment="Commit" />
+    <list default="true" id="3ab33fe1-ccb1-4304-9068-43c346f0d896" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +44,6 @@
     ".NET Launch Settings Profile.CommentSite: http.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742602806680</updated>
-      <workItem from="1742602807798" duration="1426000" />
+      <workItem from="1742602807798" duration="2044000" />
     </task>
     <task id="LOCAL-00001" summary="Initial comments Project">
       <option name="closed" value="true" />
